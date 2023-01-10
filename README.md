@@ -1,8 +1,9 @@
-# HUAWEI HAERS custom component for HomeAssistant
-This custom component gets raw drink water derectly from the Bottle using BLE API. Please note that the component uses an underlying scraping API that can change at any time and use at your own risk. **The author takes no liability of usage**.
+# APPLE Beddit Bed Sensor custom component for HomeAssistant
+This custom component gets raw drink water derectly from the APPLE Beddit Bed Sensor using Bluetooth socket. Please note that the component uses an underlying scraping API that can change at any time and use at your own risk. **The author takes no liability of usage**.
 
 ## Requestment
-`BlueTooth Adapter` or `Bluetooth Proxy (by ESPHome)`
+- `BlueTooth Adapter` or `Bluetooth Proxy (by ESPHome)`
+- **Device should be paired before using the integration**
 
 ## Usage
 
