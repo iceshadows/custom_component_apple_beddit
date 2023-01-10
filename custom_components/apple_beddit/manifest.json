@@ -1,0 +1,15 @@
+{
+  "domain": "apple_beddit",
+  "name": "Apple Beddit",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/apple_beddit",
+  "requirements": [],
+  "version": "1.0.0",
+  "bluetooth": [{ "local_name": "Bed*" }],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@iceshadows"],
+  "iot_class": "local_push"
+}
