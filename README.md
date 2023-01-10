@@ -12,7 +12,7 @@ This custom component gets raw drink water derectly from the APPLE Beddit Bed Se
 The component can be used by copying everything under the `custom_components` folder to your `custom_component`. please follow the instrument on the HomeAssistant WebSite.
 
 ### Configure through integrations (prefered way)
-Check under configuration/integrations. Add the `Myfitnesspal` integration.
+Check under configuration/integrations. Add the `Apple Beddit` integration.
 
 ### Configure with old school yaml
 Not supported
